@@ -1,4 +1,4 @@
-# Welcome to Ciera's ReadMe!
+# Welcome to Ciera's Profile!
 
 ## 👩🏽‍💻 About Me
 🎓 Senior at Rutgers University - New Brunswick, studying Computer Science and Cognitive Science<br>
