@@ -1,6 +1,6 @@
-## Welcome to Ciera's ReadMe!
+# Welcome to Ciera's ReadMe!
 
-# 👩🏽‍💻 About Me
+## 👩🏽‍💻 About Me
 🎓 Senior at Rutgers University - New Brunswick, studying Computer Science and Cognitive Science<br>
 🔭 Aspiring AI/ML Engineer and Data Scientist Passionate about Human-Centered Technology
 
@@ -8,14 +8,14 @@ I’m fascinated by the intersection of neurology, cognition, and computation. I
 
 I recently finished my Data Science Co-op @ Regeneron, where I worked on a metabolic digital twin using TensorFlow to optimize cell culture processes. Currently, I’m a Break Through Tech AI Fellow @ Cornell Tech and partnered with Ford Motor Company's Latitude AI to work on vision-language models for autonomous driving. These experiences have sharpened my skills in neural networks, optimization, and applied data science, while reinforcing my commitment to building technology that respects human diversity.
 
-# 🎯 Featured Project: PCOS Symptom Analyzer
+## 🎯 Featured Project: PCOS Symptom Analyzer
 • AI-driven tool that helps predict PCOS based on health, demographics, and lifestyle<br>
 • What I Did: Designed a zero-shot classifier via feedforward neural network; integrated GPT-3.5 Turbo to provide structured, patient-centered risk insights.<br>
 • Tools: Flask, GPT-3.5-Turbo, Next.js, OpenAI API, Pandas, PyTorch, Scikit-learn<br>
 • Result: Developed a prototype with 89% accuracy demonstrating how LLMs can empower healthcare decision-making<br>
 • [Checkout our win on Devpost!] (https://devpost.com/software/pcosmart)
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 • Languages: Python, Java, C, C++, SQL, PostgreSQL, JavaScript, HTML, CSS<br>
 • Data Science: Pandas, NumPy, Matplotlib, Seaborn<br>
 • AI/ML Frameworks: PyTorch, TensorFlow, Hugging Face Transformers, sentence-transformers, scikit-learn, XGBoost<br>
@@ -23,7 +23,7 @@ I recently finished my Data Science Co-op @ Regeneron, where I worked on a metab
 • Web / GUI Development: React, Flask, Django REST, Node.js<br>
 • Tools & Platforms: Git/GitHub, JupyterLab, VSCode, AWS, Dataiku, Conda<br>
 
-# 📫 How to Reach Me
+## 📫 How to Reach Me
 • Email: cierasimon05@gmail.com<br>
 • LinkedIn: linkedin.com/in/ciera-simon-65473b24b
 <!--
