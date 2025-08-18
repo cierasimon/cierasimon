@@ -13,7 +13,7 @@ I recently finished my Data Science Co-op @ Regeneron, where I worked on a metab
 • What I Did: Designed a zero-shot classifier via feedforward neural network; integrated GPT-3.5 Turbo to provide structured, patient-centered risk insights.<br>
 • Tools: Flask, GPT-3.5-Turbo, Next.js, OpenAI API, Pandas, PyTorch, Scikit-learn<br>
 • Result: Developed a prototype with 89% accuracy demonstrating how LLMs can empower healthcare decision-making<br>
-• [Checkout our win on Devpost!] (https://devpost.com/software/pcosmart)
+• Checkout our win on Devpost! (https://devpost.com/software/pcosmart)
 
 ## 🛠 Tech Stack
 • Languages: Python, Java, C, C++, SQL, PostgreSQL, JavaScript, HTML, CSS<br>
