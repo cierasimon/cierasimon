@@ -8,7 +8,7 @@ I’m fascinated by the intersection of neurology, cognition, and computation. I
 
 I recently finished my Data Science Co-op @ Regeneron, where I worked on a metabolic digital twin using TensorFlow to optimize cell culture processes. Currently, I’m a Break Through Tech AI Fellow @ Cornell Tech and partnered with Ford Motor Company's Latitude AI to work on vision-language models for autonomous driving. These experiences have sharpened my skills in neural networks, optimization, and applied data science, while reinforcing my commitment to building technology that respects human diversity.
 
-## 🎯 Featured Project: PCOS Symptom Analyzer
+## 🎯 Featured Project: PCOSmart: PCOS Symptom Analyzer
 • AI-driven tool that helps predict PCOS based on health, demographics, and lifestyle<br>
 • What I Did: Designed a zero-shot classifier via feedforward neural network; integrated GPT-3.5 Turbo to provide structured, patient-centered risk insights.<br>
 • Tools: Flask, GPT-3.5-Turbo, Next.js, OpenAI API, Pandas, PyTorch, Scikit-learn<br>
