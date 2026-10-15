@@ -1,7 +1,7 @@
 # Welcome to Ciera's Profile!
 
 ## 👩🏽‍💻 About Me
-🎓 Senior at Rutgers University - New Brunswick, studying Computer Science and Cognitive Science<br>
+🎓 Masters Student at Duke University, studying Interdisciplinary Data Science; Bachelors from Rutgers University - New Brunswick, studying Computer Science and Cognitive Science<br>
 🔭 Aspiring AI/ML Engineer and Data Scientist Passionate about Human-Centered Technology
 
 I’m fascinated by the intersection of neurology, cognition, and computation. I strive to explore how intelligent systems can both learn from and support the complexity of the human mind. My work blends machine learning, data science, and cognitive modeling to create solutions that are not only technically advanced, but also ethical, inclusive, and aligned with real-world needs.
