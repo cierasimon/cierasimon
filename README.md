@@ -6,7 +6,7 @@
 
 I’m fascinated by the intersection of neurology, cognition, and computation. I strive to explore how intelligent systems can both learn from and support the complexity of the human mind. My work blends machine learning, data science, and cognitive modeling to create solutions that are not only technically advanced, but also ethical, inclusive, and aligned with real-world needs.
 
-I recently finished my Data Science Co-op @ Regeneron, where I worked on a metabolic digital twin using TensorFlow to optimize cell culture processes. Currently, I’m a Break Through Tech AI Fellow @ Cornell Tech and partnered with Ford Motor Company's Latitude AI to work on vision-language models for autonomous driving. These experiences have sharpened my skills in neural networks, optimization, and applied data science, while reinforcing my commitment to building technology that respects human diversity.
+I recently finished my ML Internship @ Regeneron, where I worked on AI-assisted chunking methods in order to extract and map sections of clinical trial documents to a schema. I was a previous co-op at the company, as well as a previous Break Through Tech AI Fellow @ Cornell Tech that partnered with Ford Motor Company's Latitude AI to work on vision-language models for autonomous driving. These experiences have sharpened my skills in neural networks, optimization, and applied data science, while reinforcing my commitment to building technology that respects human diversity.
 
 ## 🎯 Featured Project: PCOSmart - PCOS Symptom Analyzer
 • AI-driven tool that helps predict PCOS based on health, demographics, and lifestyle<br>
